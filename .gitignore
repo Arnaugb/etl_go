@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/main
+
+.vscode/
+.idea/
+.DS_Store
+
+data/clean_workouts.json
+
+
+/specs.md
